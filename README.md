@@ -1,2 +1,2 @@
 # Test-Zens
-laravel 8 - PHP 7
+laravel 8 - PHP Version => 8.2.0
